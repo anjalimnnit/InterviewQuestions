@@ -1,0 +1,16 @@
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.exe
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.deps.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.runtimeconfig.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.runtimeconfig.dev.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\ref\InterviewQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\bin\Debug\net5.0\InterviewQuestions.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.csproj.AssemblyReference.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.AssemblyInfoInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.AssemblyInfo.cs
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\ref\InterviewQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\InterviewQuestions\obj\Debug\net5.0\InterviewQuestions.genruntimeconfig.cache
