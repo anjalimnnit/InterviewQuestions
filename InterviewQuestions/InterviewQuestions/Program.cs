@@ -37,6 +37,14 @@ namespace InterviewQuestions
             Console.WriteLine("Minimum Number of "
                           + " Platforms Required = "
                           + platform.FindPlatform(arr, dep, n));
+
+            // Minimum jumps problem
+            int[] arr1 = new int[] { 1, 3, 5, 8, 9, 2,
+                                6, 7, 6, 8, 9 };
+
+            // calling minJumps method
+            MinimumNoOfJumps minJumps = new MinimumNoOfJumps();
+            Console.Write($"Mininum no of jumps required = {minJumps.MinJumps(arr1)}");
         }
     }
 }
