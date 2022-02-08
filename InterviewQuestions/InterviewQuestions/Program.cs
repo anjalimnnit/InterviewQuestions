@@ -45,6 +45,10 @@ namespace InterviewQuestions
             // calling minJumps method
             MinimumNoOfJumps minJumps = new MinimumNoOfJumps();
             Console.Write($"Mininum no of jumps required = {minJumps.MinJumps(arr1)}");
+
+            // Reverse a stack
+            ReverseStackRecursion reverse = new ReverseStackRecursion();
+            reverse.ReverseStack();
         }
     }
 }
