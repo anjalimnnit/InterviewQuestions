@@ -1,0 +1,16 @@
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\DynamicProgrammingQuestions.exe
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\DynamicProgrammingQuestions.deps.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\DynamicProgrammingQuestions.runtimeconfig.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\DynamicProgrammingQuestions.runtimeconfig.dev.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\DynamicProgrammingQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\ref\DynamicProgrammingQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\bin\Debug\net5.0\DynamicProgrammingQuestions.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.csproj.AssemblyReference.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.AssemblyInfoInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.AssemblyInfo.cs
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\ref\DynamicProgrammingQuestions.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\DynamicProgrammingQuestions\obj\Debug\net5.0\DynamicProgrammingQuestions.genruntimeconfig.cache

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewQuestions", "InterviewQuestions\InterviewQuestions.csproj", "{3956E038-8C52-4BFB-ACA0-A1F9B736542C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewQuestions", "InterviewQuestions\InterviewQuestions.csproj", "{3956E038-8C52-4BFB-ACA0-A1F9B736542C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgrammingQuestions", "DynamicProgrammingQuestions\DynamicProgrammingQuestions.csproj", "{B1120801-F5C2-4ED8-9E52-24F6845EC64E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3956E038-8C52-4BFB-ACA0-A1F9B736542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3956E038-8C52-4BFB-ACA0-A1F9B736542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3956E038-8C52-4BFB-ACA0-A1F9B736542C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
