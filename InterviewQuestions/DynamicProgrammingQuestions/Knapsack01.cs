@@ -8,25 +8,34 @@ namespace DynamicProgrammingQuestions
         {
             return (a > b) ? a : b;
         }
-        public int KnapSack(int w, int[] wt,
-                        int[] val, int n)
+        static int KnapSackRec(int W, int[] wt, int[] val,
+                            int n, int[,] dp)
         {
-            if (w == 0 || n == 0)
+            if (n == 0 || W == 0)
             {
                 return 0;
             }
-            return wt[n - 1] > w
-                ? KnapSack(w, wt, val, n - 1)
-                : Max(val[n - 1] + KnapSack(w - wt[n - 1], wt, val, n - 1), KnapSack(w, wt, val, n - 1));
+            if (dp[n, W] != -1)
+            {
+                return dp[n, W];
+            }
+            if (wt[n - 1] > W)
+            {
+                return dp[n, W] = KnapSackRec(W, wt, val, n - 1, dp);
+            }
+            else
+            {
+                return dp[n, W] = Max((val[n - 1] + KnapSackRec(W - wt[n - 1], wt, val, n - 1, dp)), KnapSackRec(W, wt, val, n - 1, dp));
+            }
         }
+            public int KnapSack(int W, int[] wt, int[] val, int N)
+            {
+                int[,] dp = new int[N + 1, W + 1];
+                for (int i = 0; i < N + 1; i++)
+                    for (int j = 0; j < W + 1; j++)
+                        dp[i, j] = -1;
 
-        /*
- Complexity Analysis: 
-
-Time Complexity: O(2n). 
-As there are redundant subproblems.
-Auxiliary Space :O(1). 
-As no extra data structure has been used for storing values.
-         */
+                return KnapSackRec(W, wt, val, N, dp);
+            }
+        }
     }
-}
