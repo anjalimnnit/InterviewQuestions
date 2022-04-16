@@ -50,7 +50,33 @@ namespace InterviewQuestions
             ReverseStackRecursion reverse = new ReverseStackRecursion();
             reverse.ReverseStack();
 
+            //Singleton class demo
+            Console.WriteLine("Singleton design pattern");
+            SingletonClass instance = SingletonClass.GetInstance;
+            instance.GetMessage("hello");
+            SingletonClass instance2 = SingletonClass.GetInstance;
+            instance.GetMessage("hello2");
 
+            //linked list
+            LinkedList<int> ll = new LinkedList<int>();
+            ll.DeleteNode();
+            ll.AddNode(1);
+            ll.AddNode(2);
+            ll.AddNode(3);
+            ll.DisplayLL();
+            ll.DeleteNode();
+            ll.DisplayLL();
+            ll.DeleteNode();
+            ll.DisplayLL();
+            ll.DeleteNode();
+            ll.DeleteNode();
+            ll.DisplayLL();
+            ll.DisplayLL();
+            LinkedList<string> ll2 = new LinkedList<string>();
+            ll2.AddNode("Anjali");
+            ll2.AddNode("Software Engineer");
+            
+            ll2.DisplayLL();
     
         }
     }

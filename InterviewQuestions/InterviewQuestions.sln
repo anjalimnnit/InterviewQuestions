@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewQuestions", "InterviewQuestions\InterviewQuestions.csproj", "{3956E038-8C52-4BFB-ACA0-A1F9B736542C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgrammingQuestions", "DynamicProgrammingQuestions\DynamicProgrammingQuestions.csproj", "{B1120801-F5C2-4ED8-9E52-24F6845EC64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgrammingQuestions", "DynamicProgrammingQuestions\DynamicProgrammingQuestions.csproj", "{B1120801-F5C2-4ED8-9E52-24F6845EC64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyConcept", "LazyConcept\LazyConcept.csproj", "{1C19D8D8-8B11-41CD-98FF-706CB25FF298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1120801-F5C2-4ED8-9E52-24F6845EC64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

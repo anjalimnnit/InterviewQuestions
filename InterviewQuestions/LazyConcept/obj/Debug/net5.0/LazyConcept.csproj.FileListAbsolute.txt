@@ -1,0 +1,16 @@
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\LazyConcept.exe
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\LazyConcept.deps.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\LazyConcept.runtimeconfig.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\LazyConcept.runtimeconfig.dev.json
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\LazyConcept.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\ref\LazyConcept.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\bin\Debug\net5.0\LazyConcept.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.csproj.AssemblyReference.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.AssemblyInfoInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.AssemblyInfo.cs
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.csproj.CoreCompileInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\ref\LazyConcept.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\LazyConcept\obj\Debug\net5.0\LazyConcept.genruntimeconfig.cache
