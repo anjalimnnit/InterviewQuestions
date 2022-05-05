@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewQuestions", "Inter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgrammingQuestions", "DynamicProgrammingQuestions\DynamicProgrammingQuestions.csproj", "{B1120801-F5C2-4ED8-9E52-24F6845EC64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyConcept", "LazyConcept\LazyConcept.csproj", "{1C19D8D8-8B11-41CD-98FF-706CB25FF298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LazyConcept", "LazyConcept\LazyConcept.csproj", "{1C19D8D8-8B11-41CD-98FF-706CB25FF298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C19D8D8-8B11-41CD-98FF-706CB25FF298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

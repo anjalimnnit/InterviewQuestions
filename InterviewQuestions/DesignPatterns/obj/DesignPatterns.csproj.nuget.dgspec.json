@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DynamicProgrammingQuestions\\DynamicProgrammingQuestions.csproj": {}
+    "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DesignPatterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DynamicProgrammingQuestions\\DynamicProgrammingQuestions.csproj": {
+    "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DesignPatterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DynamicProgrammingQuestions\\DynamicProgrammingQuestions.csproj",
-        "projectName": "DynamicProgrammingQuestions",
-        "projectPath": "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DynamicProgrammingQuestions\\DynamicProgrammingQuestions.csproj",
+        "projectUniqueName": "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DesignPatterns\\DesignPatterns.csproj",
+        "projectName": "DesignPatterns",
+        "projectPath": "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DesignPatterns\\DesignPatterns.csproj",
         "packagesPath": "C:\\Users\\320112315\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DynamicProgrammingQuestions\\obj\\",
+        "outputPath": "C:\\Users\\320112315\\InterviewQuestions\\InterviewQuestions\\DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\320112315\\AppData\\Roaming\\NuGet\\NuGet.Config",
