@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LinkedListQuestions/1.0.0": {
+        "dependencies": {
+          "InterviewQuestions": "1.0.0"
+        },
+        "runtime": {
+          "LinkedListQuestions.dll": {}
+        }
+      },
+      "InterviewQuestions/1.0.0": {
+        "runtime": {
+          "InterviewQuestions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterviewQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

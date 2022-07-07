@@ -1,0 +1,10 @@
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\bin\Debug\WindowsFormsExample.exe.config
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\bin\Debug\WindowsFormsExample.exe
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\bin\Debug\WindowsFormsExample.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.AssemblyReference.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.Form1.resources
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.Properties.Resources.resources
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.GenerateResource.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.exe
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WindowsFormsExample\obj\Debug\WindowsFormsExample.pdb

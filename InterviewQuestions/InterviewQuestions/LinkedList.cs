@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace InterviewQuestions
 {
@@ -17,7 +13,7 @@ namespace InterviewQuestions
                 this.data = data;
             }
             }
-        LNode<T> head = null;
+        public LNode<T> head = null;
         public void AddNode(T x)
         {
             LNode<T> n = new LNode<T>(x);
@@ -38,6 +34,20 @@ namespace InterviewQuestions
             n.next = null;
         }
 
+
+        public void AddNodeBegin(T x)
+        {
+            LNode<T> n = new LNode<T>(x);
+            if (head == null)
+            {
+                head = n;
+            }
+            else
+            {
+                n.next = head;
+                head = n;
+            }
+        }
         public void DeleteNode()
         {
             if(head==null)

@@ -1,0 +1,7 @@
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\bin\Debug\WcfServiceExample.dll.config
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\bin\Debug\WcfServiceExample.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\bin\Debug\WcfServiceExample.pdb
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\obj\Debug\WcfServiceExample.csproj.AssemblyReference.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\obj\Debug\WcfServiceExample.csproj.CoreCompileInputs.cache
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\obj\Debug\WcfServiceExample.dll
+C:\Users\320112315\InterviewQuestions\InterviewQuestions\WcfServiceExample\obj\Debug\WcfServiceExample.pdb

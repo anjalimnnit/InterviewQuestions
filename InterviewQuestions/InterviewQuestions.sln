@@ -9,7 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgrammingQuestions
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LazyConcept", "LazyConcept\LazyConcept.csproj", "{1C19D8D8-8B11-41CD-98FF-706CB25FF298}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{E41971E7-7E31-4351-8C5B-E56D813299B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsExample", "WindowsFormsExample\WindowsFormsExample.csproj", "{A89C6DCF-C24A-4668-9394-4E259BC687A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListQuestions", "LinkedListQuestions\LinkedListQuestions.csproj", "{160EA997-8F96-4478-926D-D07720349015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppSample", "WpfAppSample\WpfAppSample.csproj", "{0251BC92-372D-4656-B7A8-2D5FCA2542D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{374DCD2A-2181-4BDA-9ECC-159A99CEAFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41971E7-7E31-4351-8C5B-E56D813299B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41971E7-7E31-4351-8C5B-E56D813299B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41971E7-7E31-4351-8C5B-E56D813299B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41971E7-7E31-4351-8C5B-E56D813299B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89C6DCF-C24A-4668-9394-4E259BC687A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89C6DCF-C24A-4668-9394-4E259BC687A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89C6DCF-C24A-4668-9394-4E259BC687A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89C6DCF-C24A-4668-9394-4E259BC687A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160EA997-8F96-4478-926D-D07720349015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160EA997-8F96-4478-926D-D07720349015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160EA997-8F96-4478-926D-D07720349015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160EA997-8F96-4478-926D-D07720349015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0251BC92-372D-4656-B7A8-2D5FCA2542D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0251BC92-372D-4656-B7A8-2D5FCA2542D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0251BC92-372D-4656-B7A8-2D5FCA2542D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0251BC92-372D-4656-B7A8-2D5FCA2542D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
